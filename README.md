@@ -12,7 +12,7 @@ This project aims to predict the presence of breast cancer in patients using mac
 **SHAP Analysis:** SHAP values are calculated to explain the contributions of different features to the model's predictions, making the model more interpretable.
 
 ## Dataset
-This project uses the Breast Cancer Wisconsin (Diagnostic) dataset available from the UCI Machine Learning Repository or the sklearn.datasets module. The dataset contains various features related to the characteristics of cell nuclei present in breast cancer biopsies.
+This project uses the [Breast Cancer Wisconsin (Diagnostic) dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data) available from the UCI Machine Learning Repository or the sklearn.datasets module. The dataset contains various features related to the characteristics of cell nuclei present in breast cancer biopsies.
 
 ## Features include:
 
