@@ -54,7 +54,7 @@ cd Breast-Cancer-Analysis-using-Machine-Learning
 ```
 **2. Run the script for training the model and SHAP analysis:**
 ```bash
-python breast_cancer_analysis.py
+python Breast-Cancer-Analysis-using-Machine-Learning.py
 ```
 
 **View the SHAP analysis results:**
