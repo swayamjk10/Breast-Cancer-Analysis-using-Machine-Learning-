@@ -47,10 +47,10 @@ pip install -r requirements.txt
 ## How to Run the Project
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/breast-cancer-analysis.git
+git clone https://github.com/swayamjk10/Breast-Cancer-Analysis-using-Machine-Learning.git
 ```
 ```bash
-cd breast-cancer-analysis
+cd Breast-Cancer-Analysis-using-Machine-Learning
 ```
 **2. Run the script for training the model and SHAP analysis:**
 ```bash
